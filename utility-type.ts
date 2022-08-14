@@ -1,3 +1,5 @@
+// Carefully read the documents for more information and deep dive to utility types
+
 interface Info {
     name: string;
     id: number;
